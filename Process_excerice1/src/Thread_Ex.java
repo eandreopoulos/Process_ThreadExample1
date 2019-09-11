@@ -8,7 +8,7 @@ public class Thread_Ex extends Thread{
 	}
 	
 	public void run(String name) {
-		System.out.println("Hi my name is: " + name);
+		System.out.println("Hi my name is " + name + " nice to meet you!");
 	}
 
 	public static void main(String[] args) {
